@@ -23,16 +23,6 @@ This project is ideal for beginners to understand basic front-end development co
 
 ---
 
-## 📁 Project Structure
-
-todo-app/
-│
-├── index.html # Main HTML file
-├── css---style.css # CSS styles for the app
-└── js----script.js # JavaScript functionality
-
----
-
 ## 📌 Application Workflow
 
 1. User enters a task in the input field.
